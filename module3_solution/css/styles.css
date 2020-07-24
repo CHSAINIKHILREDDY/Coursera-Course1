@@ -46,7 +46,6 @@ body {
 }
 
 #nav-list a {
-    /*text-align: center;*/
     font-weight: bolder;
     color: #282828;
     font-size: 1.2em;
@@ -60,12 +59,6 @@ body {
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
     border: 1px solid #7d1913;
 }
-
-
-/** END HEADER */
-
-
-/** HOME PAGE **/
 
 #main-content {
     width: 92%;
@@ -88,7 +81,7 @@ body {
 #chicken-tile, #beef-tile, #sushi-tile {
     width: 100%;
     padding: 20px;
-    background-color: #99ed7b;
+    background-color: #626d6b;
     margin-bottom: 60px;
     box-shadow: 0 0 80px #18580b;
 }
