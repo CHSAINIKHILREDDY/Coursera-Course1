@@ -6,7 +6,7 @@ body {
 }
 
 #header-nav {
-    background-color: #19a7a5;
+    background-color: #2997a5;
     border-radius: 0;
     border: 0;
 }
@@ -30,7 +30,7 @@ body {
 }
 
 .navbar-brand h1 {
-    color: #7d1913;
+    color: #1d1913;
     font-family: 'Abril Fatface', cursive;
     font-weight: bolder;
     font-size: 1.8em;
@@ -38,7 +38,7 @@ body {
 
 .navbar-brand a:hover {
     text-decoration: none;
-    text-shadow: 1px 1px 1px #fe9797;
+    text-shadow: 1px 1px 1px #fe1717;
 }
 
 #nav-list {
@@ -57,7 +57,7 @@ body {
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-    border: 1px solid #7d1913;
+    border: 1px solid #ad6953;
 }
 
 #main-content {
@@ -81,7 +81,7 @@ body {
 #chicken-tile, #beef-tile, #sushi-tile {
     width: 100%;
     padding: 20px;
-    background-color: #626d6b;
+    background-color: #a26d6b;
     margin-bottom: 60px;
-    box-shadow: 0 0 80px #18580b;
+    box-shadow: 0 0 80px #18280b;
 }
